@@ -56,3 +56,7 @@ The Development Fund is a critical part of the RCAX platform's ongoing improveme
 For example, if someone mines 120 $RCAX tokens, an extra 12 $RCAX tokens will be added to the Development Wallet. This wallet starts with a balance of zero and only grows through mining rewards and community donations.
 
 The purpose of the Development Fund is to support essential aspects of the RCAX platform's growth, such as developer compensation and marketing initiatives. Initially, RCAX manages the fund, but as the project matures, it will transition to a governance model, giving the RCAX community control over its allocation.
+
+### View Balance
+
+You can view your balance using https://rcax.io/wallet or you can import the RCAX token into MetaMask using the token details above.
