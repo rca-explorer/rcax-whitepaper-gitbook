@@ -21,6 +21,10 @@ _**It's important to emphasize that $RCAX may not carry any intrinsic monetary v
 \
 _While the maximum supply is set at 72,290,000, it's important to note that the actual circulating supply is expected to be significantly lower since it is only a hard cap._
 
+{% content-ref url="import-rcax-into-metamask.md" %}
+[import-rcax-into-metamask.md](import-rcax-into-metamask.md)
+{% endcontent-ref %}
+
 ### Mining
 
 Participating in $RCAX token mining is a straightforward process. You can acquire $RCAX by sending any Reddit Collectible Avatar belonging to generations 1 through 4 to the $RCAX token address. Your rewards are calculated using the following principles:
