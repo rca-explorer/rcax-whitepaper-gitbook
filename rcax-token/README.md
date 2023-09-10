@@ -43,8 +43,14 @@ _**EXAMPLE**_: Sending a Joii Kawaii Girl (Gen 1) to the token address (0xC99BD8
 {% hint style="info" %}
 _**TIP**_: You can easily send Avatars to the $RCAX token address by using https://opensea.io\
 \
-Just go to your wallet items and select one or multiple Avatars to transfer to 0xC99BD85BA824De949cf088375225E3FdCDB6696C. That is all you need to do to mine $RCAX!
+Just go to your wallet items and select one or multiple Avatars to transfer to 0xC99BD85BA824De949cf088375225E3FdCDB6696C. That is all you need to do to mine $RCAX!\
+\
+Detailed steps can be found in the **Mine RCAX using OpenSea** page.
 {% endhint %}
+
+{% content-ref url="mine-rcax-using-opensea.md" %}
+[mine-rcax-using-opensea.md](mine-rcax-using-opensea.md)
+{% endcontent-ref %}
 
 **Check Before Sending**\
 You can check the current reward for your Collectible Avatar by executing the `getAvatarBurnReward` function in the token smart contract. Use the contract address of your Avatar as input. You can try this and many other public functions here: [https://polygonscan.com/address/0xC99BD85BA824De949cf088375225E3FdCDB6696C#readProxyContract](https://polygonscan.com/address/0xC99BD85BA824De949cf088375225E3FdCDB6696C#readProxyContract)
