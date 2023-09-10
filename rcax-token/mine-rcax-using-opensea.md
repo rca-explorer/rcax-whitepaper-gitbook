@@ -1,3 +1,10 @@
+---
+description: >-
+  OpenSea is not necessary, you can also just directly send to the RCAX token
+  address. This is just a simple example as MetaMask does not support ERC1155
+  token transfers.
+---
+
 # Mine RCAX using OpenSea
 
 1. Go to [https://opensea.io](https://t.co/neKhan7Km5) and open the wallet tab.
