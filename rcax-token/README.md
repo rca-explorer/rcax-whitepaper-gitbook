@@ -37,7 +37,7 @@ The initial base reward stands at 120 $RCAX and undergoes a halving cycle every 
 <table><thead><tr><th width="127">Modifier</th><th>Base Reward Multiplier</th></tr></thead><tbody><tr><td>Gen 1</td><td>24</td></tr><tr><td>Gen 2</td><td>12</td></tr><tr><td>Gen 3</td><td>6</td></tr><tr><td>Gen 4</td><td>1</td></tr><tr><td>Other</td><td>0</td></tr></tbody></table>
 
 {% hint style="danger" %}
-Unfortunately, the "Old School Cool" from gen 1 has the wrong contract address reported in our smart contract. This means that all Avatars within this collection can not be burned. If you were affected by this, you may contact us at **snoovatars@gmail.com** to request mining rewards directly from the dev fund. Do not manually burn without explicit permission though! Dev funds are limited.
+Unfortunately, the "Old School Cool" from gen 1 has the wrong contract address reported in our smart contract. This means that all Avatars within this collection can not be burned. If you were affected by this before **12 september 2023**, you may contact us at **snoovatars@gmail.com** to request mining rewards directly from the dev fund. Do not manually burn without explicit permission though! Dev funds are limited.
 {% endhint %}
 
 {% hint style="info" %}
