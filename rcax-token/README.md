@@ -71,13 +71,12 @@ The purpose of the Development Fund is to support essential aspects of the RCAX 
 
 You can view your balance using https://rcax.io/wallet or you can import the RCAX token into MetaMask using the token details above.
 
-### Governance
+### Governance & Upgrades
 
-Given the nascent stage of our project, RCAX currently maintains full control over the proxy contract. This grants RCAX the authority to replace the target contract within the proxy at any given moment, introducing a significant degree of authority that requires careful management, transparency, and responsibility.
+As of the following transaction: [Transaction Link](https://polygonscan.com/tx/0x7b5c2bd2e220dbee415ab23beb1b153232646ed643c71c441a220fb1decd7adc), the RCAX Deployer has officially relinquished ownership of the RCAX Token contract address, effective immediately upon reaching block #47420021.
 
-There are several compelling reasons for this approach to RCAX's initial launch:
+This action has rendered the token contract immutable, establishing it as a 'burner address.' This is attributed to the fact that the contract lacks the capability to facilitate any ERC1155 token movements.
 
-1. Early Stage Exploration: With the project just having entered the public domain, new perspectives and scrutiny are inevitable. Individuals examining our tokenomics and smart contract implementation may identify novel ideas, potential risks, or bugs. It is crucial that we can promptly address any emerging issues without the need for protracted hard fork procedures.
-2. Community Governance as the Endgame: It is essential to emphasize that our ultimate objective is to evolve RCAX into a community-governed token. However, launching as a community-driven token from the outset presents certain challenges. During the initial stages of a project, the distribution of voting power tokens in the community governance model tends to be uneven. Larger token holders, often referred to as "whales," could exert disproportionate influence over governance decisions. This disparity may hinder the establishment of a truly democratic decision-making process.
+Upgrades to the $RCAX token will have to be done via a hard fork, requiring the majority of the community to move to a potential new token address.
 
-In summary, while RCAX currently retains control over the proxy contract, this approach is viewed as a pragmatic means to address potential issues promptly and efficiently. The project's long-term vision remains centered on moving to a community governance model.
+In the future we plan on introducing on-chain voting with $RCAX and letting a community governance model decide the future of the project.
