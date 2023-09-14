@@ -9,7 +9,7 @@ description: >-
 
 ### DEX
 
-[https://quickswap.exchange/#/swap?currency0=0xC99BD85BA824De949cf088375225E3FdCDB6696C\&currency1=0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619\&swapIndex=0](https://quickswap.exchange/#/swap?currency0=0xC99BD85BA824De949cf088375225E3FdCDB6696C\&currency1=0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619\&swapIndex=0)
+[https://coinmarketcap.com/dexscan/polygon/0xf56d604f32dec33a9f2c1573d7741ab9ba517164/](https://coinmarketcap.com/dexscan/polygon/0xf56d604f32dec33a9f2c1573d7741ab9ba517164/)
 
 ### Trade
 
