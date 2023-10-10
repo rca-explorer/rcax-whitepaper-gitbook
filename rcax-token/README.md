@@ -13,13 +13,10 @@ _**It's important to emphasize that $RCAX may not carry any intrinsic monetary v
 **Name**: RCAX Token\
 **Ticker**: ($)RCAX\
 **Token Address**: 0xC99BD85BA824De949cf088375225E3FdCDB6696C\
-**Max Supply**: 72,290,000\
 **Initial Supply**: 0\
 **Mintable**: Yes (only by RCA burning)\
 **GitHub**: [https://github.com/rca-explorer/rcax-token](https://github.com/rca-explorer/rcax-token)\
-**PolygonScan**: [https://polygonscan.com/address/0xC99BD85BA824De949cf088375225E3FdCDB6696C](https://polygonscan.com/address/0xC99BD85BA824De949cf088375225E3FdCDB6696C)\
-\
-_While the maximum supply is set at 72,290,000, it's important to note that the actual circulating supply is expected to be significantly lower since it is only a hard cap._
+**PolygonScan**: [https://polygonscan.com/address/0xC99BD85BA824De949cf088375225E3FdCDB6696C](https://polygonscan.com/address/0xC99BD85BA824De949cf088375225E3FdCDB6696C)
 
 {% content-ref url="import-rcax-into-metamask.md" %}
 [import-rcax-into-metamask.md](import-rcax-into-metamask.md)
@@ -30,7 +27,7 @@ _While the maximum supply is set at 72,290,000, it's important to note that the 
 Participating in $RCAX token mining is a straightforward process. You can acquire $RCAX by sending any Reddit Collectible Avatar belonging to generations 1 through 4 to the $RCAX token address. Your rewards are calculated using the following principles:
 
 **Base Reward** \
-The initial base reward stands at 120 $RCAX and undergoes a halving cycle every 4 weeks until it has halved 13 times, after which the base reward will be 0 $RCAX.
+The initial base reward stands at 120 $RCAX and undergoes a halving cycle every 4 weeks until it has halved 13 times, after which the base reward will stay the same.
 
 **Reward Modifiers**
 
