@@ -1,3 +1,3 @@
 # Import RCAX into MetaMask
 
-Go to [https://tinyurl.com/5xbrcnja](https://tinyurl.com/5xbrcnja) and click "Import to MetaMask".
+Go to [https://tinyurl.com/cspz9mm2](https://tinyurl.com/cspz9mm2) and click "Import to MetaMask".
