@@ -8,7 +8,7 @@ description: >-
 
 Follow these steps to convert your RCAX Classic tokens into the new RCAX tokens:
 
-1. Go to [https://polygonscan.com/token/0xc99bd85ba824de949cf088375225e3fdcdb6696c?a=0x91537c44ff0fe61e8142976a94a3295e17db82f3#writeProxyContract](https://polygonscan.com/token/0xc99bd85ba824de949cf088375225e3fdcdb6696c?a=0x91537c44ff0fe61e8142976a94a3295e17db82f3#writeProxyContract)
+1. Go to [https://polygonscan.com/token/0xc99bd85ba824de949cf088375225e3fdcdb6696c#writeProxyContract](https://polygonscan.com/token/0xc99bd85ba824de949cf088375225e3fdcdb6696c#writeProxyContract)
 2. Click "Connect to Web3" and connect with your RCAX Classic wallet.
 3. lick on "1. approve" and set "0x875f123220024368968d9f1aB1f3F9C2f3fd190d" as the spender, then set amount to the amount of RCAX Classic tokens that you want to convert. Make sure to multiply the amount by 18\*\*10 as commas are not supported. Eg: 1 RCAX Classic should be 1000000000000000000 as amount. Save this amount for later.
 4. Click "Write" and approve the transaction. Then wait for the transaction to confirm (will be a matter of seconds).
