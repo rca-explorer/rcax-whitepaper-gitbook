@@ -2,7 +2,7 @@
 description: Our newly launched Polygon (ERC-20) utility token.
 ---
 
-# 🟠 RCAX Token
+# 🟠 RCAX Token (V2)
 
 Introducing the RCAX Token ($RCAX), the native currency behind RCAX's dApps (decentralized apps) designed exclusively for the RCA ecosystem. $RCAX can be acquired solely through the burning of Reddit Collectible Avatars via the RCAX Token smart contract, as elaborated in the sections to follow.
 
@@ -60,9 +60,9 @@ You can check the current reward for your Collectible Avatar by executing the `g
 
 ### Development Fund
 
-The Development Fund is a critical part of the RCAX platform's ongoing improvement efforts. It operates by allocating an additional 10% of mining rewards to a specific wallet with the address 0xB5C42f30cEAE2032F22d364E33A5BaEfA1A043FF.
+The Development Fund is a critical part of the RCAX platform's ongoing improvement efforts. It operates by allocating an additional 15% of mining rewards to a specific wallet with the address 0xB5C42f30cEAE2032F22d364E33A5BaEfA1A043FF.
 
-For example, if someone mines 120 $RCAX tokens, an extra 12 $RCAX tokens will be added to the Development Wallet. This wallet starts with a balance of zero and only grows through mining rewards and community donations.
+For example, if someone mines 60 $RCAX tokens, an extra 9 $RCAX tokens will be added to the Development Wallet. This wallet starts with a balance of zero and only grows through mining rewards and community donations.
 
 The purpose of the Development Fund is to support essential aspects of the RCAX platform's growth, such as developer compensation and marketing initiatives. Initially, RCAX manages the fund, but as the project matures, it will transition to a governance model, giving the RCAX community control over its allocation.
 
