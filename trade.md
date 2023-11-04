@@ -15,6 +15,10 @@ description: >-
 If you want to buy large amounts of $RCAX, it "might" be cheaper to buy and burn RCA's for mining rewards instead. You should check the current mining rewards and the current floor prices of each RCA generation that is eligible for a mine reward. Please do your due diligence and trade at your own risk of course!
 {% endhint %}
 
+### Marketplace
+
+[https://marketplace.rcax.io](https://marketplace.rcax.io)
+
 ### Trade
 
 [https://ampule.io/](https://ampule.io/)
