@@ -33,7 +33,7 @@ The initial base reward stands at 60 $RCAX and undergoes a halving cycle every 2
 **Reward Modifiers**\
 The final mine reward will be calculated by doing \`Base Reward \* Base Reward Multiplier\`.
 
-<table><thead><tr><th width="264">Modifier</th><th>Base Reward Multiplier</th></tr></thead><tbody><tr><td>Gen 1</td><td>24</td></tr><tr><td>Gen 2</td><td>12</td></tr><tr><td>Gen 3</td><td>0</td></tr><tr><td>Gen 4</td><td>0</td></tr><tr><td>Aww Friends<br>Meme Team<br>Drip squad<br>The Singularity</td><td>4</td></tr><tr><td>Reddit Cup 2022</td><td>0.1</td></tr><tr><td>Super Bowl LVII</td><td>0.1</td></tr><tr><td>Other</td><td>0</td></tr></tbody></table>
+<table><thead><tr><th width="264">Modifier</th><th>Base Reward Multiplier</th></tr></thead><tbody><tr><td>Gen 1</td><td>24</td></tr><tr><td>Gen 2</td><td>12</td></tr><tr><td>Aww Friends<br>Meme Team<br>Drip squad<br>The Singularity</td><td>4</td></tr><tr><td>Reddit Cup 2022</td><td>0.1</td></tr><tr><td>Super Bowl LVII</td><td>0.1</td></tr><tr><td>Other</td><td>0</td></tr></tbody></table>
 
 {% hint style="info" %}
 Please note that the Avatar supply has no effect on the mine reward. All Avatars within the same generation yield the same reward.
