@@ -6,6 +6,12 @@ description: >-
 
 # Convert Classic to V2
 
+### Using the Web UI (Easy)
+
+[https://rcax.io/dapps/convertclassic](https://rcax.io/dapps/convertclassic)
+
+### Using the smart contract directly (Advanced)
+
 Follow these steps to convert your RCAX Classic tokens into the new RCAX tokens:
 
 1. Go to [https://polygonscan.com/token/0xC99BD85BA824De949cf088375225E3FdCDB6696C#readProxyContract](https://polygonscan.com/token/0xC99BD85BA824De949cf088375225E3FdCDB6696C#readProxyContract)
