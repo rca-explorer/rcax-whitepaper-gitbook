@@ -1,7 +1,3 @@
----
-description: Work in progress..
----
-
 # 🛠 Tools
 
 ### Web2
@@ -10,7 +6,7 @@ description: Work in progress..
 
 ### Web3
 
-**Marketplace (Beta)**\
+**Avatar Marketplace (Beta)**\
 [**https://marketplace.rcax.io**](https://marketplace.rcax.io)
 
 A marketplace completely centered around Reddit Collectible Avatars. $RCAX sales are exempt from service fees. Any other tokens pay a 1% fee that will be converted into $RCAX.
