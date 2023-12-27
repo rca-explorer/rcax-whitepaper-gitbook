@@ -4,9 +4,9 @@ description: Our newly launched Polygon (ERC-20) utility token.
 
 # 🟠 RCAX Token (V2)
 
-Introducing the RCAX Token ($RCAX), the native currency behind RCAX's dApps (decentralized apps) designed exclusively for the RCA ecosystem. $RCAX can be acquired solely through the burning of Reddit Collectible Avatars via the RCAX Token smart contract, as elaborated in the sections to follow.
+Introducing the RCAX Token ($RCAX), the native currency behind RCAX's dApps (decentralized apps) designed exclusively for the Reddit Collectible Avatars ecosystem. $RCAX can be acquired solely through the burning of Reddit Collectible Avatars via the RCAX Token smart contract, as elaborated in the sections to follow.
 
-_**It's important to emphasize that $RCAX may not carry any intrinsic monetary value; it serves exclusively as a utility token integral to RCAX's future Web3 initiatives.**_
+_**It's important to emphasize that $RCAX may not carry any intrinsic monetary value; it serves exclusively as a utility token integral to RCAX's Web3 initiatives.**_
 
 ### Details
 
